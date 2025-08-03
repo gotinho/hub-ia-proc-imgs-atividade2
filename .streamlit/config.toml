@@ -1,0 +1,11 @@
+[client]
+showSidebarNavigation = false
+
+[theme]
+base="light"
+primaryColor="#006cd6"
+baseRadius = "none"
+
+[server]
+showEmailPrompt = false
+runOnSave = true
