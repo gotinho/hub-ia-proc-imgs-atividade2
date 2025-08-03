@@ -45,7 +45,7 @@ Este projeto utiliza o framework Streamlit para construir aplicações web inter
 
 1. Clone este repositório:
     ```bash
-    git clone https://github.com/seu-usuario/seu-projeto.git
+    git clone https://github.com/gotinho/hub-ia-proc-imgs-atividade2.git
     cd seu-projeto
     ```
 
@@ -77,7 +77,7 @@ Certifique-se de ter instalado:
 
 1. Clone este repositório:
     ```bash
-    git clone https://github.com/seu-usuario/seu-projeto.git
+    git clone https://github.com/gotinho/hub-ia-proc-imgs-atividade2.git
     cd seu-projeto
     ```
 
